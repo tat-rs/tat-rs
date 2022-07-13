@@ -11,7 +11,8 @@
 
 ### Мой стек
 
-![HTML5](https://img.shields.io/badge/-HTML-3b3b3b?style=flat&logo=html5&logoColor=white&color=000000)  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge?style=flat&&logo=css&logoColor=white&color=000000)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-3b3b3b?logo=html5&style=flat&logoColor=red)  ![CSS3](https://img.shields.io/badge/css-3b3b3b?logo=css3&style=flat&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-3b3b3b?logo=SASS&style=flat&logoColor=hotlink)  ![JavaScript](https://img.shields.io/badge/javascript-3b3b3b?logo=javascript&style=flat&logoColor=23323330)  ![React](https://img.shields.io/badge/react-3b3b3b?logo=react&style=flat&logoColor=2361DAFB) 	![Git](https://img.shields.io/badge/Git-3b3b3b?logo=git&style=flat&logoColor=23F05033)  ![Express.js](https://img.shields.io/badge/express-3b3b3b?logo=express&style=flat&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-3b3b3b?logo=mongodb&style=flat&logoColor=234ea94b)
+
 
 ### Моя статистика
 
