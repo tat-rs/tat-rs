@@ -9,6 +9,13 @@
 📖 Изучаю TypeScript и Redux  
 📫 Со мной можно связаться: tat-rs@yandex.ru или телеграм: @tat_rs
 
+### Мои последние проекты
+
+<a href="https://pizza22.herokuapp.com/">Интернет-магазин пиццерии на React + TS</a>
+<a href="https://movie-explorer22.herokuapp.com/">Одностраничное приложение по поиску фильмов на React</a>
+<a href="https://tat-rs.github.io/hacker-news/">Новостной сайт, созданный на основе API Hacker News</a>
+<a href="https://mesto22.herokuapp.com/">Приложение для добавления и просмотра фотографий на React</a>
+
 ### Мой стек
 
 ![HTML5](https://img.shields.io/badge/HTML-3b3b3b?logo=html5&style=flat&logoColor=red)  ![CSS3](https://img.shields.io/badge/css-3b3b3b?logo=css3&style=flat&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-3b3b3b?logo=SASS&style=flat&logoColor=hotlink)  ![JavaScript](https://img.shields.io/badge/javascript-3b3b3b?logo=javascript&style=flat&logoColor=23323330)   ![TypeScript](https://img.shields.io/badge/typescript-3b3b3b?style=flat&logo=typescript&logoColor=23007ACC&labelColor=3b3b3b)  ![React](https://img.shields.io/badge/react-3b3b3b?logo=react&style=flat&logoColor=2361DAFB) 	![Git](https://img.shields.io/badge/Git-3b3b3b?logo=git&style=flat&logoColor=23F05033)  ![Express.js](https://img.shields.io/badge/express-3b3b3b?logo=express&style=flat&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-3b3b3b?logo=mongodb&style=flat&logoColor=234ea94b)
