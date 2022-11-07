@@ -11,10 +11,14 @@
 
 ### Мои последние проекты
 
-<a href="https://pizza22.herokuapp.com/">Интернет-магазин пиццерии на React + TS</a>
-<a href="https://movie-explorer22.herokuapp.com/">Одностраничное приложение по поиску фильмов на React</a>
-<a href="https://tat-rs.github.io/hacker-news/">Новостной сайт, созданный на основе API Hacker News</a>
-<a href="https://mesto22.herokuapp.com/">Приложение для добавления и просмотра фотографий на React</a>
+1. Интернет-магазин пиццерии на React + TS: <a href="https://pizza22.herokuapp.com/">https://pizza22.herokuapp.com</a>
+
+2. Одностраничное приложение по поиску фильмов на React: <a href="https://movie-explorer22.herokuapp.com/">https://movie-explorer22.herokuapp.com</a>
+
+3. Новостной сайт, созданный на основе API Hacker News: <a href="https://tat-rs.github.io/hacker-news/">https://tat-rs.github.io/hacker-news</a>
+
+4. Приложение для добавления и просмотра фотографий на React: <a href="https://mesto22.herokuapp.com/">https://mesto22.herokuapp.com</a>
+
 
 ### Мой стек
 
