@@ -13,11 +13,11 @@
 
 1. Интернет-магазин пиццерии на React + TS: <a href="https://pizza22.herokuapp.com/">https://pizza22.herokuapp.com</a>
 
-2. Одностраничное приложение по поиску фильмов на React: <a href="https://movie-explorer22.herokuapp.com/">https://movie-explorer22.herokuapp.com</a>
+2. Одностраничное приложение по поиску фильмов на React: <a href="https://movies-explorer-frontend-teal.vercel.app/">https://movies-explorer-frontend-teal.vercel.app</a>
 
 3. Новостной сайт, созданный на основе API Hacker News: <a href="https://tat-rs.github.io/hacker-news/">https://tat-rs.github.io/hacker-news</a>
 
-4. Приложение для добавления и просмотра фотографий на React: <a href="https://mesto22.herokuapp.com/">https://mesto22.herokuapp.com</a>
+4. Приложение для добавления и просмотра фотографий на React: <a href="https://mesto-front.vercel.app">https://mesto-front.vercel.app</a>
 
 
 ### Мой стек
