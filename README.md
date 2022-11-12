@@ -11,7 +11,7 @@
 
 ### Мои последние проекты
 
-1. Интернет-магазин пиццерии на React + TS: <a href="https://pizza22.herokuapp.com/">https://pizza22.herokuapp.com</a>
+1. Интернет-магазин пиццерии на React + TS: <a href="https://react-pizza-delta-woad.vercel.app">https://react-pizza-delta-woad.vercel.app</a>
 
 2. Одностраничное приложение по поиску фильмов на React: <a href="https://movies-explorer-frontend-teal.vercel.app/">https://movies-explorer-frontend-teal.vercel.app</a>
 
