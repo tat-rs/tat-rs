@@ -12,19 +12,27 @@
 ### Мои последние проекты
 
 1. Интернет-магазин пиццерии на React + TS
+
    Сайт: <a href="https://react-pizza-delta-woad.vercel.app">https://react-pizza-delta-woad.vercel.app</a>
+
    Репозиторий: <a href="https://github.com/tat-rs/react-pizza">https://github.com/tat-rs/react-pizza</a>
 
 2. Одностраничное приложение по поиску фильмов на React
+
    Сайт: <a href="https://movies-explorer-frontend-teal.vercel.app/">https://movies-explorer-frontend-teal.vercel.app</a>
+
    Репозиторий: <a href="https://github.com/tat-rs/movies-explorer-frontend">https://github.com/tat-rs/movies-explorer-frontend</a>
 
 3. Новостной сайт, созданный на основе API Hacker News
+
    Сайт: <a href="https://tat-rs.github.io/hacker-news/">https://tat-rs.github.io/hacker-news</a>
+
    Репозиторий: <a href="https://github.com/tat-rs/hacker-news">https://github.com/tat-rs/hacker-news</a>
 
 4. Приложение для добавления и просмотра фотографий на React
+
    Сайт: <a href="https://mesto-front.vercel.app">https://mesto-front.vercel.app</a>
+
    Репозиторий: <a href="https://github.com/tat-rs/react-mesto-api-full">https://github.com/tat-rs/react-mesto-api-full</a>
 
 
